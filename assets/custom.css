@@ -1,0 +1,24 @@
+@media (min-width: 768px) {
+    .blue-column {
+        background-color: blue;
+        color: white;
+        padding: 3rem;
+        border: 1px solid black;
+    }
+}
+
+
+.yellow-column {
+    background-color: yellow;
+    color: black;
+    padding: 3rem;
+    border: 1px solid black;
+}
+
+
+.red-column {
+    background-color: red;
+    color: white;
+    padding: 3rem;
+    border: 1px solid black;
+}
